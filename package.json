@@ -1,0 +1,29 @@
+{
+  "name": "versionize",
+  "version": "0.0.1",
+  "description": "Utility to fetch tags/releases from git and create cross-OS compatible version info.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/saturated-white/versionize.git"
+  },
+  "keywords": [
+    "version",
+    "generator"
+  ],
+  "author": "Hernold Koch <info@saturated-white.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/saturated-white/versionize/issues"
+  },
+  "homepage": "https://gitlab.com/saturated-white/versionize#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}

@@ -1,0 +1,29 @@
+# Ignore NPM and Bower folders.
+bower_components
+node_modules
+
+# Ignore prod/dist folders
+dist/
+build/
+
+# Other generated/common stuff.
+.tmp
+.DS_Store
+*.log
+NOTES.md
+version
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+#vsCode
+.history/
+.vscode/
